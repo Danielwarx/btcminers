@@ -1,0 +1,2 @@
+# btcminers
+Cryptocurrency cloud mining 
